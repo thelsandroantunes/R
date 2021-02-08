@@ -25,3 +25,23 @@ VADeaths[1:3,]
 
 longley
 longley$Unemployed
+longley["Unemployed"]
+
+state.region
+
+head(x = iris, n=2)
+head(iris)
+head(iris,2)
+#head(n=22)
+
+help(sd)
+
+dim(esoph)
+
+####################
+x = read.csv(file.choose(), header = TRUE, sep =";")
+x
+
+quit()
+
+
